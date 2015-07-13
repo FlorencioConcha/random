@@ -1,2 +1,9 @@
-el primero
+ primero despues el segundo
 
+var numero = Maath.random();
+if (numero <0 0.5){
+  console.log ('\n' + numero + 'Menor que 0,5 \n');
+}
+else {
+  console.log ('\n' + numero + 'Mayor que 0,5 \n');
+}
